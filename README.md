@@ -12,7 +12,7 @@ To compile and run the code, perform the following steps:
 
 1- Add the path of the command line package to java classpath.
 
-export CLASSPATH=${CLASSPATH}:/path_to_this_java_lib/commons-cli-1.4.jar
+export CLASSPATH=${CLASSPATH}:/path_to_clone_dir/java_tutorial_cli/commons-cli-1.4.jar
 
 2- Compile the code which creates a Main.class file. 
 
